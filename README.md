@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms
+Common Algorithms in C++
