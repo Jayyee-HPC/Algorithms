@@ -50,7 +50,7 @@ int testcases(void){
 		//std::cout<<array[i]<<std::endl;
 	}
 
-	std::cout<<"Bubble sorting finished in (ms): "<<timeEnd - timeBegin<<std::endl;
+	std::cout<<"Insertion sorting finished in (ms): "<<timeEnd - timeBegin<<std::endl;
 	free(array);
 	return 0;
 }
